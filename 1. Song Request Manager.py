@@ -1,4 +1,5 @@
 """
+Week 3 Session 1 - Intro to Lists Pt 1
 Goal: Create a program that manages song requests for a DJ.
 The program should:
 Print instructions at the beginning.
